@@ -26,6 +26,7 @@ Replace this section with your own reflection:
   - jklh
 - What did you learn about Git commits (small commits, staging, meaningful messages)?
   - gvhbj
+  
 **Generative AI Disclosure (if applicable)**
 - Tool used:
 - What it was used for:
