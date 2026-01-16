@@ -1,7 +1,7 @@
 # Week 1 Python Git Lab 
 
 **Dataset chosen:** Flights  https://raw.githubusercontent.com/mwaskom/seaborn-data/master/flights.csv  
-&nbsp; &nbsp; &nbsp; Recommended columns: `month` (category), `passengers` (numeric)
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Recommended columns: `month` (category), `passengers` (numeric)
 
 **How to run**
 
