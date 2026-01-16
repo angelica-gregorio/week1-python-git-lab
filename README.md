@@ -18,7 +18,7 @@ python analyze.py
 - Generates `output/chart.png`
 
 **Example output**
-`output/sample_chart.png` is included as a visual example. Your script run should generate/overwrite `output/chart.png`.
+> `output/sample_chart.png` is included as a visual example. Your script run should generate/overwrite `output/chart.png`.
 
 **Reflection (write 3–5 sentences)**
 Replace this section with your own reflection:
