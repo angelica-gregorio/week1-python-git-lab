@@ -1,9 +1,17 @@
 # Week 1 Python Git Lab 
 
-**Dataset chosen:** Flights  https://raw.githubusercontent.com/mwaskom/seaborn-data/master/flights.csv  
-                    Recommended columns: `month` (category), `passengers` (numeric)
+**Dataset chosen:** 
+> Flights  https://raw.githubusercontent.com/mwaskom/seaborn-data/master/flights.csv  
+> Recommended columns: `month` (category), `passengers` (numeric)
 
 **How to run**
+```bash
+python3 -m venv .venv
+source .venv/bin/activate   # Windows: .\.venv\Scripts\Activate.ps1
+pip install pandas matplotlib
+pip freeze > requirements.txt
+python analyze.py
+```
 
 **What it does**
 - Prints dataset summary (rows/cols, columns list, first 5 rows, grouped averages)
