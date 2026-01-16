@@ -23,8 +23,9 @@ python analyze.py
 **Reflection (write 3–5 sentences)**
 Replace this section with your own reflection:
 - What was the hardest part?
+  - jklh
 - What did you learn about Git commits (small commits, staging, meaningful messages)?
-
+  - gvhbj
 **Generative AI Disclosure (if applicable)**
 - Tool used:
 - What it was used for:
