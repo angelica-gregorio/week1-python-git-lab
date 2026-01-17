@@ -31,9 +31,9 @@ python analyze.py
 
 ## Generative AI Disclosure (if applicable)
 - Tool used:
+  - Gemini AI
 - What it was used for:
-  - ...
-  - ...
+  - Sorting of the Heatmap Visualisation from alphabetical to the actual order of the months.
+
 - What I personally verified/changed:
-  - ...
-  - ...
+  - Changed the variable name to be uniform with the one I initially initialized.
