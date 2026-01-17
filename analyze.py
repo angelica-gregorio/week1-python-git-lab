@@ -10,7 +10,7 @@ DATASET_URL = "https://raw.githubusercontent.com/mwaskom/seaborn-data/master/fli
 CATEGORY_COL = "month"
 YEAR_COL = "year"
 VALUE_COL = "passengers"
-OUTPUT_PATH = os.path.join("output", "chart.png")
+OUTPUT_PATH = os.path.join("output", "barchart.png")
 HEATMAP_OUTPUT_PATH = os.path.join("output", "heatmap.png")
 
 MONTHS_ORDER = [
