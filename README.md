@@ -16,10 +16,12 @@ python analyze.py
 ### What it does
 - Loads a dataset directly from a URL using Python and Pandas.  
 - Prints dataset summary (rows/cols, columns list, first 5 rows, grouped averages)
-- Generates  `output/chart.png`
+- Generates and overwrites  `output/barchart.png` , and `output/heatmap.png`
 
 **Example output**
-> `output/sample_chart.png` is included as a visual example. Your script run should generate/overwrite `output/chart.png`.
+> Your script run should generate/overwrite `output/barchart.png` , and `output/heatmap.png`.
+![Bar Chart](output/barchart.png)
+![Heatmap](output/heatmap.png)
 
 ### Reflection
 - What was the hardest part?
